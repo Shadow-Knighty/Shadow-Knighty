@@ -13,66 +13,77 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer dedicated to building innovative solutions and exploring the latest technologies. I love turning ideas into reality through code and creative problem-solving.
+I'm a passionate developer dedicated to building innovative solutions and exploring the latest technologies. I thrive on turning creative ideas into elegant code and solving complex problems with a minimalist approach.
 
 ---
 
-## 💼 What I'm Working On
+## 💼 What I'm Focused On
 
-- 🔭 **Currently Building**: Exciting projects that push boundaries
-- 🌱 **Currently Learning**: New frameworks, languages, and technologies
-- 👯 **Looking to Collaborate**: On open-source projects and innovative ideas
-- 💡 **Passionate About**: Clean code, creative solutions, and continuous learning
+- 🔭 **Building**: Cutting-edge projects that challenge conventions
+- 🌱 **Learning**: Advanced patterns, emerging tech, and system design
+- 👯 **Collaborating**: On meaningful open-source initiatives
+- 💡 **Crafting**: Clean, efficient, and maintainable code
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```
-Languages:     JavaScript | Python | Java | HTML/CSS
-Frontend:      React | Vue | Next.js
-Backend:       Node.js | Express | Django
-Tools:         Git | Docker | VS Code | GitHub
+Languages:     JavaScript | Python | Java | TypeScript | Go
+Frontend:      React | Vue | Next.js | Tailwind CSS
+Backend:       Node.js | Express | FastAPI | GraphQL
+Tools:         Git | Docker | Kubernetes | CI/CD | AWS
+Database:      PostgreSQL | MongoDB | Redis
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Shadow-Knighty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow-Knighty&show_icons=true&theme=dark)
+![Shadow-Knighty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow-Knighty&show_icons=true&theme=dark&count_private=true)
 
----
-
-## 🎯 Featured Projects
-
-<!-- Add your best projects here -->
-- **Project Name** - Brief description of what it does
-- **Another Project** - What makes it special
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Knighty&layout=compact&theme=dark)
 
 ---
 
-## 📫 Connect With Me
+## ✨ Highlights
 
-- **Email**: [Add your email]
-- **Twitter**: [@YourHandle]
-- **LinkedIn**: [Your Profile]
-- **Portfolio**: [Your Website]
+- 🎯 Full-stack development expertise
+- 🔐 Security-conscious coder
+- 📈 Performance optimization enthusiast
+- 🚀 DevOps & cloud infrastructure
+- 💻 Open-source contributor
+- 🧩 System design & architecture
 
 ---
 
-## ⚡ Fun Facts
+## 🎮 Interests
 
-- 🎮 I love gaming and tech
-- 🌙 Night owl developer
-- 📚 Always learning something new
-- ✨ Believe in clean and efficient code
+- 🌌 Exploring new technologies
+- 📚 Continuous learning mindset
+- 🎨 Clean code philosophy
+- 🔧 Building scalable systems
+- 🌐 Web technologies & frameworks
+- 🤖 AI/ML applications
 
 ---
 
 <div align="center">
 
-### 💪 Let's build something amazing together!
+### 💪 Code with Purpose. Build with Passion.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadow-Knighty&color=blueviolet)
 
+⭐ **Feel free to explore my repositories and projects** ⭐
+
 </div>
+
+---
+
+## 📈 Contributions
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shadow-Knighty&theme=github-dark)
+
+---
+
+> *"The best code is not the most complex, but the most elegant."* ✨
