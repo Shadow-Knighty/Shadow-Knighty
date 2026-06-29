@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer dedicated to building innovative solutions and exploring the latest technologies. I thrive on turning creative ideas into elegant code and solving complex problems with a minimalist approach.
+I'm a passionate developer dedicated to building innovative solutions and exploring the latest technologies. I thrive on turning creative ideas into elegant code and solving complex problems.
 
 ---
 
@@ -65,6 +65,12 @@ Database:      PostgreSQL | MongoDB | Redis
 - 🔧 Building scalable systems
 - 🌐 Web technologies & frameworks
 - 🤖 AI/ML applications
+
+---
+
+## 🔗 Social Links
+
+- 📸 [Instagram](https://www.instagram.com/shadow__knighty?igsh=MXRrOTN0djRkY2tn)
 
 ---
 
