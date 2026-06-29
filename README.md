@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated developer with a focus on building innovative, scalable solutions through elegant code and cutting-edge technologies. I combine creative problem-solving with a strong commitment to clean architecture, performance optimization, and collaborative development. Whether working on full-stack applications or exploring emerging technologies, I bring precision, passion, and purpose to every project.
+I'm a passionate and dedicated developer with a focus on building innovative, scalable solutions through elegant code and cutting-edge technologies. I combine creative problem-solving with a strong commitment to crafting elegant, maintainable, and impactful software.
 
 **Core Philosophy:** *Write code that speaks for itself. Build systems that scale. Create products that matter.*
 
@@ -121,6 +121,7 @@ VS Code | Git/GitHub | Postman | Webpack | NPM/Yarn | Linux CLI
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shadow__knighty?igsh=MXRrOTN0djRkY2tn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadow-Knighty)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shadow_knighty)
 
 </div>
 
